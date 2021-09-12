@@ -24,6 +24,10 @@ body {
       border-style: hidden;
      }
 
+     .nav.a{
+      color:cyan;
+     }
+
   p {
     font-family: verdana;
     font-size: 20px;
