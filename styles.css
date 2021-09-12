@@ -64,3 +64,7 @@ background-color: #00aeff;
   .p.a{
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
+
+  .white-menu .side-menu {
+    left: 20px;
+  }
