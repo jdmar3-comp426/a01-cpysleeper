@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/jdmar3-comp426/a01-cpysleeper.git"
   },
-  "author": "",
+  "author": "Panyi Chen",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a01-cpysleeper/issues"
   },
-  "homepage": "https://github.com/jdmar3-comp426/a01-cpysleeper#readme"
+  "homepage": "https://github.com/jdmar3-comp426/a01-cpysleeper#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
 }
